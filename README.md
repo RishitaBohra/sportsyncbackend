@@ -111,6 +111,74 @@ Collaborated on backend development and API integration for the SportsSync platf
 
 ---
 
+---
+
+# Screenshots
+
+## Home Page
+
+![Home](screenshots/home.png)
+
+---
+
+## Login Page
+
+![Login](screenshots/Login.png)
+
+---
+
+## Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## Profile Page
+
+![Profile](screenshots/profile.png)
+
+---
+
+## Friends Section
+
+![Friends](screenshots/friends.png)
+
+---
+
+## Messages Section
+
+![Messages](screenshots/messages.png)
+
+---
+
+## Tournament Page
+
+![Tournament](screenshots/tournaments.png)
+
+---
+
+## Activity Feed
+
+![Activity](screenshots/activity.png)
+
+---
+
+## Dark Theme Dashboard
+
+![Dark Dashboard](screenshots/darktheme-dashboard.png)
+
+---
+
+## Dark Theme Profile
+
+![Dark Profile](screenshots/darktheme-profile.png)
+
+---
+
+## Dark Theme Create Match
+
+![Dark Create Match](screenshots/darktheme-creatematch.png)
+
 # Author
 
 Rishita Bohra
